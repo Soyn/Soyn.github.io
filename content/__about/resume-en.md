@@ -1,13 +1,14 @@
 ---
 title: 'about'
-date: 2019-1-27 16:21:13
+date: 2019-7-28 16:21:13
 lang: 'en'
 ---
 
-# Your name
+# Wang Yao
 
+  Software enginner in Xi'an. Now focus on frontend with React.
 <div align="center">
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
+_If you want to contact me, Please send me an email: w604408482@gmail.com._
 
 </div>

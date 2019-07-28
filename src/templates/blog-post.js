@@ -21,7 +21,11 @@ export default ({ data, pageContext, location }) => {
     ScrollManager.init()
     return () => ScrollManager.destroy()
   }, [])
-
+  // {
+  //   !!sponsor.buyMeACoffeeId && (
+  //     <SponsorButton sponsorId={sponsor.buyMeACoffeeId} />
+  //   )
+  // }
   const post = data.markdownRemark
   const metaData = data.site.siteMetadata
   const { title, comment, siteUrl, author, sponsor } = metaData
@@ -32,10 +36,6 @@ export default ({ data, pageContext, location }) => {
       <Head title={post.frontmatter.title} description={post.excerpt} />
       <PostTitle title={post.frontmatter.title} />
       <PostContainer html={post.html} />
-      <SocialShare title={post.frontmatter.title} author={author} />
-      {!!sponsor.buyMeACoffeeId && (
-        <SponsorButton sponsorId={sponsor.buyMeACoffeeId} />
-      )}
       <Elements.Hr />
       <Bio />
       <PostNavigator pageContext={pageContext} />
