@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>http://cuteshilina.com/2019-6-15-mvvm/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2019-5-11-sameOriginPolicy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2019-4-20-Promise/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2019-4-13-frontend-route/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2019-3-23-StateManager/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2019-3-16-ESModule/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2019-3-2-AsyncAndDeferInScript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2019-2-23-WriteYourOwnAmdLoader/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2019-2-06-Javascript模块化/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2019-1-26-ReactRedux源码解读/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2019-1-19-HowReactReduxWorks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2019-1-12-HowToBuildYourOwnTimeSystem/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2018-12-29-Reselect/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2018-12-22-TreeShaking/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2018-12-15-集成Sonarqube到项目/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2018-1-05-MyYearOf2018/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2016-11-26-写给25岁的自己/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/2016-10-02-愿路途不再往复，愿无岁月可回头/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://cuteshilina.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
