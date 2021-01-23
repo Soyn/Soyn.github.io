@@ -24,9 +24,14 @@ function toggleTheme(theme) {
     }
   }
 }
-
+const getDefaultTheme = () => {
+  const now = new Date(Date.now())
+  const hour = now.getHours()
+  if (hour > 18) return true
+  return false
+}
 export const ThemeSwitch = () => {
-  const [checked, setChecked] = useState(false)
+  const [checked, setChecked] = useState(getDefaultTheme())
 
   const handleChange = checked => {
     const theme = getTheme(checked)
