@@ -27,7 +27,6 @@ function toggleTheme(theme) {
 const getDefaultTheme = () => {
   const now = new Date(Date.now())
   const hour = now.getHours()
-  console.log(hour)
   if (hour > 18) return true
   return false
 }
