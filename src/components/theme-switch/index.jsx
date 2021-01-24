@@ -27,12 +27,12 @@ function toggleTheme(theme) {
 const getDefaultTheme = () => {
   const now = new Date(Date.now())
   const hour = now.getHours()
+  console.log(hour)
   if (hour > 18) return true
   return false
 }
 export const ThemeSwitch = () => {
-  const [checked, setChecked] = useState(getDefaultTheme())
-
+  const [checked, setChecked] = useState(true)
   const handleChange = checked => {
     const theme = getTheme(checked)
 
@@ -41,7 +41,7 @@ export const ThemeSwitch = () => {
   }
 
   useEffect(() => {
-    const checked = Dom.hasClassOfBody(THEME.DARK)
+    const checked = getDefaultTheme()
 
     handleChange(checked)
   }, [])
